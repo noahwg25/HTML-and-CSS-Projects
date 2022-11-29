@@ -100,6 +100,6 @@ h1  {
         background-image: url("../images/smile2.png")
     }
     50% {
-        trasnform: translateY(330px);
+        transform: translateY(330px);
     }
 }
