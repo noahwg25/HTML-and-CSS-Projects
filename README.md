@@ -1,5 +1,6 @@
 # HTML and CSS Projects
-
-This contains all the projects from the HTML course.
- 
-This contains all the projects from the HTML course.
+Completed Projects: 
+-Bootstrap 4 Cinema Project
+-CSS Lists
+-Final Portfolio Project
+-Final Challenges 
